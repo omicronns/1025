@@ -6,4 +6,4 @@
 |Pandas 101|<a target="_blank" href="https://colab.research.google.com/github/bpampuch/1025/blob/main/notebooks/3_Pandas101.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>|
 |Matplotlib|<a target="_blank" href="https://colab.research.google.com/github/bpampuch/1025/blob/main/notebooks/4_matplotlib.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>|
 |Seaborn|<a target="_blank" href="https://colab.research.google.com/github/bpampuch/1025/blob/main/notebooks/5_seaborn.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>|
-|Gradio|<a target="_blank" href="https://colab.research.google.com/github/bpampuch/1025/blob/main/notebooks/6_gradio.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>|
+|Gradio|<a target="_blank" href="https://colab.research.google.com/github/bpampuch/1025/blob/main/notebooks/6_gradio101.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>|
